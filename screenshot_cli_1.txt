@@ -1,0 +1,7 @@
+PERSONAL FINANCE MANAGER
+1. Add New Expense
+2. View All Expenses
+3. Category-wise Summary
+4. Generate Monthly Report
+5. Backup Data
+6. Exit
